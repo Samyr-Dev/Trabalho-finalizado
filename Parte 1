@@ -1,0 +1,24 @@
+
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+
+
+        //Cabeçalho
+        System.out.println("-----------------------------------------");
+
+        //Faculdade
+        System.out.println("Unifan - Centro Universitário Alfredo Nasser.");
+
+        //Nome_aluno =
+        System.out.println("Aluno: Samyr Silva Tertuliano Deusdará.");
+
+        //Nome_professor
+        System.out.println("Professor: Brenno Pimenta.");
+        System.out.println("-----------------------------------------");
+        //Boas_vindas
+        System.out.println("");
+        System.out.println("Olá, Seja bem-vindo(a). Você irá responder 15 questões de múltipla escolha acerca da arte. Essas questões abrangem diferentes formas de arte, desde literatura clássica até cinema e escultura. Diverta-se ;)");
+    }
+}
